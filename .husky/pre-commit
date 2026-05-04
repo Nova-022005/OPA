@@ -1,0 +1,4 @@
+#!/usr/bin/env sh
+. "$(/c/Users/saura/OneDrive/Desktop/OPA/OPA1 -- "$0")/_/husky.sh"
+
+npx snyk test
